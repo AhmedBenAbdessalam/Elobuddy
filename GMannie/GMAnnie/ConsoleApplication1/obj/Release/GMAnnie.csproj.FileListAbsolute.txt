@@ -1,0 +1,13 @@
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\EloBuddy.dll
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\EloBuddy.Sandbox.dll
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\EloBuddy.SDK.dll
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\Newtonsoft.Json.dll
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\SharpDX.Direct3D9.dll
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\SharpDX.dll
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\bin\Release\SharpDX.XInput.dll
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\projects\c-sharp projects\EloBuddy\GMannie\GMAnnie\ConsoleApplication1\obj\Release\GMAnnie.csprojResolveAssemblyReference.cache
